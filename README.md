@@ -38,7 +38,7 @@ Learning aur practice ke liye
 
 Repository clone karein:
 
-git clone https://github.com/kamalsaini31/List-of-Countries-by-Sugarcane-Production.git
+git clone https://github.com/kamalsaini31/List-of-Countries-by-Sugarcane-Production-Analysis
 
 
 Data folder se dataset access karein
